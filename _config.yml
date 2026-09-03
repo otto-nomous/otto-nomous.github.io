@@ -1,0 +1,8 @@
+title: Otto Nomous
+description: Things I built, things I learned, rabbit holes I fell into.
+url: "https://otto-nomous.github.io"
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
